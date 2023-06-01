@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "275374997637",
+    "project_id": "alleazeinternship",
+    "storage_bucket": "alleazeinternship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275374997637:android:104819d101e237c84129ec",
+        "android_client_info": {
+          "package_name": "com.example.alleaze_internship"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeqrwTVMubUtvEUkoXZyUucqEL9LaTrZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
