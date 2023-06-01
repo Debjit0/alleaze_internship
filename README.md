@@ -1,6 +1,6 @@
 # alleaze_internship
 
-A new Flutter project.
+A new Flutter project for applying in alleaze internship
 
 ## Getting Started
 
